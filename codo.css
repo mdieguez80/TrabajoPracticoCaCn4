@@ -1,0 +1,148 @@
+* {
+    margin: 0%;
+}
+
+.salida {
+    align-items: flex-end !important;
+    margin-right: 5%;
+}
+
+
+#imagen {
+    vertical-align: middle;
+    color: #ffffff;
+    font-size: 1.5rem;
+    margin-left: 5%;
+}
+
+#comprar {
+    color: rgb(44, 201, 44);
+}
+
+.carousel-item {
+    width: 100%;
+    max-height: 600px;
+}
+
+#texto1 {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 14px;
+    
+}
+
+#texto2 {
+    text-align: center;
+    font-size: 30px;
+    margin-top: -20px;
+}
+
+#carrusel {
+    display: flex;
+    position: relative;
+    flex-direction:row;
+    justify-content: flex-start;
+}
+
+.textoconbotones {
+    color: white;
+    text-align: right;
+    margin-right: 5%;
+    margin-left: 70%;
+    margin-top: 18%;
+    position:absolute;
+    z-index: 1;
+}
+
+#cards {
+    margin-top: 1%;
+    display: flex;   
+    justify-content: center; 
+}
+
+#card_2 {
+    margin-left: 2%;
+}
+
+#card_3 {
+    margin-left: 2%;
+}
+
+.botones {
+    margin-top: 5%;
+    margin-left: 5%;
+}
+
+.card-text {
+    margin-top: -25px;
+}
+
+#octubre {
+    margin-top: 2%;
+    margin-bottom: 1%;
+    width: 100%;
+    display: flex;
+}
+
+#oct_imagen {
+    width: 50%;
+    display: inline-block;
+}
+
+#oct_texto {
+    background-color: rgb(44, 44, 44);
+    width: 50%;
+    display: inline-block;
+    color:white;
+    padding-top: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+#anotate {
+    text-align: center;
+}
+
+#formContacto {
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+#formContNyA {
+    margin-top: 1%;
+}
+
+#nombre {
+    margin-right: 1%;
+}
+
+#apellido {
+    margin-left: 1%;
+}
+
+#formText {
+    margin-top: 1%;
+}
+
+#imputText {
+    font-size: 35px;
+    padding: 12px;
+}
+
+#divRecuerda {
+    margin-left: 23%;
+}
+
+#recuerda {
+    font-size: 15px;
+    color: dimgrey;
+    text-align: left;
+}
+
+#botonEnviar {
+    background-color: rgb(146, 202, 81);
+    border-radius: 8px;
+    border: none;
+    color: white;
+    font-size: 25px;
+}
